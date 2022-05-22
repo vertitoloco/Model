@@ -31,7 +31,6 @@ public class Password1 {
 		
 	}
 	public static boolean passwordValida(String contraseña) {
-	
 		int comprobar = 0;
 		int mayusculas = 0;
 		int minusculas = 0;
@@ -98,6 +97,6 @@ public class Password1 {
         } 
 
         return builder.toString(); 
-    } 
-		
+    } 	
+	
 }
